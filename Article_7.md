@@ -7,13 +7,14 @@ done in Convention by the Unanimous Consent of the States present the Seventeent
 
 George Washington
 
+'''
 Delaware
   Geo: Read
   Gunning Bedford jun
   John Dickinson
   Richard Bassett
   Jaco: Broom
-
+'''
 
 Maryland
   James McHenry
