@@ -7,67 +7,70 @@ done in Convention by the Unanimous Consent of the States present the Seventeent
 
 George Washington
 
-'''
+```
 Delaware
   Geo: Read
   Gunning Bedford jun
   John Dickinson
   Richard Bassett
   Jaco: Broom
-'''
-
+```
+```
 Maryland
   James McHenry
   Dan of St   Thos. Jenifer
   Danl Carroll.
-
+```
+```
 Virginia
   John Blair—
   James Madison Jr.
-
-
+```
+```
 North Carolina
   Wm Blount
   Richd. Dobbs Spaight.
   Hu Williamson
-
-
+```
+```
 South Carolina
   J. Rutledge
   Charles Cotesworth Pinckney
   Charles Pinckney
   Pierce Butler.
-
-
+```
+```
 Georgia
   William Few
   Abr Baldwin
-
+```
+```
 New Hampshire
   John Langdon
   Nicholas Gilman
-
-
+```
+```
 Massachusetts
   Nathaniel Gorham
   Rufus King
-
-
+```
+```
 Connecticut
   Wm.   Saml. Johnson
   Roger Sherman
-
-
+```
+```
 New York
   Alexander Hamilton
-
-
+```
+```
 New Jersey
   Wil. Livingston
   David Brearley.
   Wm. Paterson.
   Jona: Dayton
-
+```
+```
 Pennsylvania
   B Franklin
   Thomas Mifflin
@@ -77,4 +80,4 @@ Pennsylvania
   Jared Ingersoll
   James Wilson.
   Gouv Morris
-
+```
